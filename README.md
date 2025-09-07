@@ -19,13 +19,14 @@ Patient demographics influencing appointment behavior
 ------------------
 
 Category	Details
-Tools Used: Power BI (visualization & data modeling), SQL (data extraction & analysis), Excel (data cleaning & preparation)
-KPIs Tracked	Show Rate, No-show %, Cancellation %, Avg. Wait Time, Doctor Utilization %, Appointment Volume (Daily, Weekly, Monthly), Patient Retention Rate, Cancellation Reasons
-Stakeholder Roles Served: Doctors (workload & utilization), Reception Staff (scheduling efficiency), Patients (reduced wait times), Clinic Administrators (strategic oversight)
-Business Outcomes Achieved: Reduced no-show and cancellation rates, improved doctor utilization, identified peak appointment demand, enabled patient segmentation for targeted reminders, and enhanced operational planning for clinics
-Description
 
-This project demonstrates the design and implementation of a Healthcare Appointment Optimization Dashboard, designed to reduce no-shows and enhance doctor resource utilization. Using SQL, Excel, and Power BI, appointment, patient, and doctor datasets were integrated into a unified analytics platform that delivers actionable insights for healthcare stakeholders.
+| Category                       | Details                                                                                                                                                                                                     |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tools Used**                 | Power BI (visualization & data modeling), SQL (data extraction & analysis), Excel (data cleaning & preparation)                                                                                             |
+| **KPIs Tracked**               | Show Rate, No-show %, Cancellation %, Avg. Wait Time, Doctor Utilization %, Appointment Volume (Daily, Weekly, Monthly), Patient Retention Rate, Cancellation Reasons                                       |
+| **Stakeholder Roles Served**   | Doctors (workload & utilization), Reception Staff (scheduling efficiency), Patients (reduced wait times), Clinic Administrators (strategic oversight)                                                       |
+| **Business Outcomes Achieved** | Reduced no-show and cancellation rates, improved doctor utilization, identified peak appointment demand, enabled patient segmentation for targeted reminders, and enhanced operational planning for clinics |
+
 
 The dashboard is structured into three interactive sections:
 
