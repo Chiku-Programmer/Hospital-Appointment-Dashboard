@@ -1,5 +1,4 @@
-# Hospital-Appointment-Dashboard
----------------------------------
+# 🩺Hospital-Appointment-Dashboard
 
 Problem Statement
 -----------------
