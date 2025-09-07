@@ -1,0 +1,101 @@
+DoctorID,FullName,Gender,Department,AvailableSlotsPerDay,JoiningDate,Status
+D101,Dr. Bryan Haney MD,F,Orthopedics,14,17-05-2012,On Leave
+D102,Dr. Brian Norris,F,Neurology,9,13-08-2020,Active
+D103,Dr. Brian Vasquez,M,General,12,17-09-2019,Active
+D104,Dr. Rachel Jones,F,General,8,05-06-2023,On Leave
+D105,Dr. Jeffrey Johnson,M,Dermatology,16,30-08-2020,Active
+D106,Dr. Anna Lewis,M,Endocrinology,12,04-03-2011,On Leave
+D107,Dr. Crystal Barker,M,Pediatrics,11,21-01-2011,On Leave
+D108,Dr. Kelly Ramos,M,General,11,24-11-2020,On Leave
+D109,Dr. Robin Robinson,M,Endocrinology,15,21-10-2022,On Leave
+D110,Dr. William Roy,F,Orthopedics,14,13-06-2020,Active
+D111,Dr. Danielle Wagner,F,Cardiology,9,07-05-2019,On Leave
+D112,Dr. Amanda Long,F,Gynecology,16,08-10-2015,Active
+D113,Dr. Charles Jarvis,F,ENT,14,25-02-2024,On Leave
+D114,Dr. Cathy Martin,M,ENT,15,12-04-2024,Active
+D115,Dr. Charlene English,M,Gynecology,11,31-07-2022,Active
+D116,Dr. Timothy Wagner,F,Pediatrics,8,17-12-2022,Active
+D117,Dr. Anthony Russo,M,Endocrinology,9,26-04-2017,Active
+D118,Dr. Wayne Griffin,M,Dermatology,8,20-12-2011,On Leave
+D119,Dr. Sean Vasquez,F,Neurology,17,14-12-2017,On Leave
+D120,Dr. Kathleen Mccormick,M,Gynecology,13,06-02-2018,Active
+D121,Dr. Norman Schroeder,F,Pediatrics,13,03-09-2018,On Leave
+D122,Dr. Craig Allen,F,Dermatology,9,25-12-2017,On Leave
+D123,Dr. Joshua Ross,F,Neurology,9,05-10-2011,On Leave
+D124,Dr. Angela Evans,M,General,16,07-07-2021,On Leave
+D125,Dr. Brian Warner,M,Neurology,18,26-06-2024,On Leave
+D126,Dr. Jessica Harris,M,Neurology,13,27-05-2023,Active
+D127,Dr. Kenneth Hernandez,M,Gynecology,9,11-10-2020,Active
+D128,Dr. Julie Wheeler,F,Cardiology,12,16-03-2024,On Leave
+D129,Dr. Sarah Daniels,F,Pediatrics,9,10-07-2012,Active
+D130,Dr. Crystal King,F,General,16,04-07-2020,Active
+D131,Dr. Kenneth Harrison,F,ENT,9,06-01-2025,Active
+D132,Dr. Nathaniel Duncan,M,Neurology,16,17-01-2021,Active
+D133,Dr. Edwin Green,M,Endocrinology,10,01-11-2014,On Leave
+D134,Dr. Phillip Rogers,M,Dermatology,14,23-02-2023,On Leave
+D135,Dr. Rebecca Durham,M,Orthopedics,15,07-12-2016,On Leave
+D136,Dr. Steven Lee,M,ENT,10,27-09-2013,On Leave
+D137,Dr. Wesley Zuniga,F,Dermatology,17,18-08-2016,Active
+D138,Dr. George Huynh Jr.,M,Pediatrics,13,09-09-2017,Active
+D139,Dr. Alejandro Lee,M,Orthopedics,17,08-05-2019,On Leave
+D140,Dr. Andrea Medina,M,General,18,06-08-2016,Active
+D141,Dr. Jamie Collins,M,Orthopedics,18,14-08-2015,Active
+D142,Dr. Steven Orozco,F,Gynecology,15,28-08-2012,Active
+D143,Dr. Jacob Ryan,F,Pediatrics,15,24-06-2020,On Leave
+D144,Dr. Todd Mccarthy,F,Gynecology,8,08-11-2012,On Leave
+D145,Dr. Danielle Walsh,F,Neurology,16,28-03-2021,On Leave
+D146,Dr. Joe Barnett,F,Endocrinology,8,28-05-2019,Active
+D147,Dr. Timothy Lawson,M,Dermatology,18,26-05-2016,Active
+D148,Dr. Thomas Turner,M,ENT,11,13-01-2016,On Leave
+D149,Dr. Dustin Todd,F,General,12,20-04-2021,Active
+D150,Dr. Michael Thompson,F,ENT,15,09-06-2020,On Leave
+D151,Dr. Teresa Martinez,M,Pediatrics,13,14-05-2015,Active
+D152,Dr. Christy Brown,F,General,9,16-01-2023,Active
+D153,Dr. Kenneth Taylor,M,Dermatology,13,04-01-2025,On Leave
+D154,Dr. Lisa Decker,M,Neurology,15,01-06-2015,On Leave
+D155,Dr. Stephen Garcia,F,Pediatrics,18,13-10-2012,On Leave
+D156,Dr. Brenda Schultz MD,M,Pediatrics,17,25-02-2011,On Leave
+D157,Dr. Valerie Holmes,M,Endocrinology,9,08-06-2023,Active
+D158,Dr. Ashley Henderson,M,Dermatology,12,15-05-2022,On Leave
+D159,Dr. Anthony Jordan,F,General,17,02-10-2011,On Leave
+D160,Dr. Kelly Gonzalez,F,General,18,04-12-2012,Active
+D161,Dr. Jared Horton,F,Orthopedics,14,26-04-2013,Active
+D162,Dr. Jacqueline Lewis,F,Gynecology,14,03-06-2022,On Leave
+D163,Dr. Sabrina Romero,M,Gynecology,13,09-04-2023,On Leave
+D164,Dr. William Martinez,F,Pediatrics,12,13-03-2012,Active
+D165,Dr. Jessica Dudley,M,General,16,28-12-2015,On Leave
+D166,Dr. Carrie Bell,M,Neurology,15,05-07-2014,Active
+D167,Dr. Justin Larsen,F,Neurology,18,27-06-2023,Active
+D168,Dr. Henry Gardner,F,Gynecology,11,10-08-2021,Active
+D169,Dr. Jeffrey Smith,M,ENT,17,17-03-2011,On Leave
+D170,Dr. Mr. Peter Smith,F,Dermatology,13,30-10-2014,Active
+D171,Dr. Jill Richmond,F,Cardiology,11,12-12-2011,On Leave
+D172,Dr. Lee Miller,F,General,10,06-11-2010,On Leave
+D173,Dr. Aaron Blair,F,ENT,11,09-05-2023,On Leave
+D174,Dr. Tamara Hill,M,Pediatrics,8,25-12-2021,Active
+D175,Dr. Lisa Daniel,F,Pediatrics,14,19-12-2017,On Leave
+D176,Dr. Mark Jones,M,Cardiology,17,15-01-2022,On Leave
+D177,Dr. Susan Stanley,F,Neurology,17,22-01-2017,Active
+D178,Dr. Curtis Stevens,M,Cardiology,18,02-01-2019,Active
+D179,Dr. Jose Lane,F,Neurology,8,20-08-2020,Active
+D180,Dr. Samuel Hernandez,F,Endocrinology,10,22-03-2019,Active
+D181,Dr. Keith Martinez,M,Orthopedics,9,20-09-2018,Active
+D182,Dr. Jeffrey Williams,M,Cardiology,18,23-05-2013,On Leave
+D183,Dr. Amber Dean,M,Endocrinology,14,02-07-2018,Active
+D184,Dr. David Tucker,M,Pediatrics,13,02-09-2011,On Leave
+D185,Dr. John Howell,M,ENT,18,10-12-2017,Active
+D186,Dr. Tyler Sanford,M,Cardiology,10,10-02-2017,On Leave
+D187,Dr. Phillip Mueller,F,Pediatrics,18,20-11-2013,Active
+D188,Dr. Larry Patrick,F,Pediatrics,11,07-05-2018,Active
+D189,Dr. Ashley Duran,F,Pediatrics,11,29-07-2019,Active
+D190,Dr. Christopher Cruz,F,Orthopedics,15,01-05-2012,Active
+D191,Dr. Keith Thomas,M,Orthopedics,14,01-09-2018,On Leave
+D192,Dr. Jeffrey Sims,M,General,12,25-05-2023,Active
+D193,Dr. Troy Brown,F,Dermatology,9,21-06-2020,On Leave
+D194,Dr. William Griffin,F,General,14,29-01-2022,Active
+D195,Dr. Deanna Hines,F,ENT,10,09-05-2024,Active
+D196,Dr. Tamara Diaz,M,ENT,8,30-04-2025,On Leave
+D197,Dr. Stephen Rosales,F,Pediatrics,9,24-06-2013,On Leave
+D198,Dr. Jonathan Moore,F,Dermatology,14,05-07-2022,On Leave
+D199,Dr. Devin Lloyd,F,ENT,16,05-03-2015,Active
+D200,Dr. Jennifer Green,M,Cardiology,10,21-11-2011,Active
