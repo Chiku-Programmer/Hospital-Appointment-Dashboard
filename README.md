@@ -1,67 +1,104 @@
-# 🩺Hospital-Appointment-Dashboard
+# 🏥 Healthcare Appointment Dashboard  
 
-Problem Statement
------------------
+## 📝 Problem Statement  
+Hospitals face challenges with **high appointment cancellations, no-shows, and uneven doctor workload**, leading to lost revenue, inefficiency, and poor patient experience.  
+Leadership needs **real-time visibility** into appointments, patients, and doctor utilization to improve operations.  
 
-A multi-specialty healthcare clinic is struggling with high no-show rates, uneven doctor utilization, and limited visibility into appointment patterns. These challenges lead to revenue loss, patient dissatisfaction, and inefficient use of medical staff.
+---
 
-The goal is to optimize appointment scheduling and improve operational efficiency by identifying:
+## 💡 Solution  
+An **interactive Power BI dashboard** built on appointment, patient, and doctor data to:  
+- Track appointment status (**Completed, Cancelled, No-show**).  
+- Monitor patient demographics and visit patterns.  
+- Analyze doctor workload across departments.  
+- Provide management with **KPIs and drilldowns** for decision-making.  
 
-Peak demand hours and appointment trends
+---
 
-No-show and cancellation patterns
+## 📌 Key KPIs from Dashboard  
+- **Total Appointments**  
+- **Completed Appointments %**  
+- **No-show Rate %**  
+- **Cancellation Rate %** (with reasons like *Sick Child, Double Booking, Emergency*)  
+- **First vs Repeat Visits**  
+- **Avg. Appointment Duration (mins)**  
+- **Department-wise Appointments**  
+- **Doctor Utilization %** (Completed vs Available Slots)  
+- **Payment Mode Split** (Cash, Insurance, Govt.)  
 
-Doctor utilization and workload distribution
+---
 
-Patient demographics influencing appointment behavior
+## 🔍 Business Insights  
+- **High no-show and cancellation rates** observed in **Neurology, Pediatrics, and Cardiology**.  
+- **Top cancellation reasons** include *Sick Child, Did Not Inform, and Double Booking*.  
+- **First-time patients** are more likely to cancel than repeat patients.  
+- Some doctors/departments show **under-utilization**, while others are overbooked.  
+- **Cash payments dominate**, but Insurance and Govt. schemes are critical for certain departments.  
+- Patient demographics (age, chronic illness, marital status) correlate with appointment attendance.  
 
-📊 Visual Summary
-------------------
+---
 
-Category	Details
+## 💼 Business Impact  
+- Helps hospital management **reduce cancellations/no-shows** through reminders, stricter booking policies, or tele-consultation.  
+- Supports **doctor scheduling optimization**, balancing workload and improving efficiency.  
+- Improves **patient care and retention** by identifying which segments face challenges.  
+- Enables **revenue protection and forecasting** by tracking payment modes and reducing inefficiencies.  
 
-| Category                       | Details                                                                                                                                                                                                     |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tools Used**                 | Power BI (visualization & data modeling), SQL (data extraction & analysis), Excel (data cleaning & preparation)                                                                                             |
-| **KPIs Tracked**               | Show Rate, No-show %, Cancellation %, Avg. Wait Time, Doctor Utilization %, Appointment Volume (Daily, Weekly, Monthly), Patient Retention Rate, Cancellation Reasons                                       |
-| **Stakeholder Roles Served**   | Doctors (workload & utilization), Reception Staff (scheduling efficiency), Patients (reduced wait times), Clinic Administrators (strategic oversight)                                                       |
-| **Business Outcomes Achieved** | Reduced no-show and cancellation rates, improved doctor utilization, identified peak appointment demand, enabled patient segmentation for targeted reminders, and enhanced operational planning for clinics |
+---
 
+## 🛠️ Tech Stack / Skills Used  
+- **Excel** → Data cleaning, column creation (Day, Month, Quarter).  
+- **SQL** → Data joins between appointments, patients, and doctors.  
+- **Power BI** → Data modeling, DAX measures, KPIs, interactive dashboards.  
+- **Business Analysis** → Identifying drivers of no-shows, cancellations, and department bottlenecks.  
 
-The dashboard is structured into three interactive sections:
+---
 
-Appointments Dashboard – Tracks appointment status (Completed, Cancelled, No-show), daily/hourly demand, cancellation reasons, and patient retention. Designed to help reception staff and administrators spot inefficiencies.
+## 📊 Dashboard Views  
 
-Doctors Dashboard – Measures doctor utilization rates (booked vs. available slots), workload by department, and scheduling trends. Helps optimize doctor allocation and identify underutilized resources.
+### 1️⃣ Appointment Dashboard  
+![Appointment Dashboard](https://github.com/Chiku-Programmer/Hospital-Appointment-Dashboard/blob/main/APPOINTMENT.png?raw=true)
+**Insights:**  
+- Overall appointment efficiency (completed %, cancelled %, no-shows).  
+- Frequent cancellation reasons: *Sick Child, Double Booking, Did Not Inform*.  
+- Highest cancellations in **Neurology, Cardiology, Pediatrics**.  
+- **First-time patients cancel more** than repeat visits.  
+- **Cash payments dominate**, with Insurance & Govt. programs contributing significantly.  
 
-Patients Dashboard – Segments patients by demographics (age, gender, chronic illness, geography), tracks repeat visits, and highlights groups with higher no-show or cancellation behavior. Supports targeted engagement and retention strategies.
+**Takeaway:**  
+→ Tighten appointment management, send reminders, reduce double booking, and improve the first-visit experience to build trust.  
 
-Key Achievements
------------------
+---
 
-Implemented a star schema data model with fact and dimension tables (Appointments, Doctors, Patients).
+### 2️⃣ Doctor Dashboard  
+![Doctor Dashboard](https://github.com/Chiku-Programmer/Hospital-Appointment-Dashboard/blob/main/DOCTORS.png?raw=true)
+**Insights:**  
+- Some doctors frequently **on leave**, creating bottlenecks.  
+- **Neurology & Cardiology** departments have fewer available slots per day but higher demand.  
+- **Active vs On Leave** status helps assess workforce readiness.  
+- Utilization rates reveal overbooked vs underutilized doctors.  
 
-Built advanced DAX measures for KPIs such as No-show Rate, Doctor Utilization %, and Patient Retention Rate.
+**Takeaway:**  
+→ Redistribute doctor workload, ensure backup staffing in high-demand areas, and improve shift rotations.  
 
-Designed interactive filters and drill-throughs for exploring data by department, time slot, or patient profile.
+---
 
-Delivered insights into peak-hour demand, reducing bottlenecks in appointment scheduling.
+### 3️⃣ Patient Dashboard  
+![Patient Dashboard](https://github.com/Chiku-Programmer/Hospital-Appointment-Dashboard/blob/main/PATIENTS.png?raw=true)
+**Insights:**  
+- Demographics: Age, gender, marital status, and city distribution.  
+- Chronic illnesses (diabetes, hypertension, asthma) drive **repeat visits**.  
+- **First-time patients cancel more**, chronic illness patients are more reliable.  
+- Certain cities/areas contribute disproportionately to patient volume.  
 
-Created actionable recommendations, including proactive reminders for high-risk no-show patients and reallocation of doctor schedules based on utilization data.
+**Takeaway:**  
+→ Create retention programs for chronic illness patients, improve onboarding for first-timers, and target high-patient cities for outreach campaigns.  
 
-Ensured scalability and security, with automated refresh strategies and documentation for hospital administrators.
+---
 
-🎯 Goal of the Business Problem
----------------------------------
-
-The primary goal is to reduce appointment no-shows, cancellations, and inefficiencies in doctor utilization while improving the overall patient experience and clinic profitability. By centralizing appointment, patient, and doctor data into a single analytics dashboard, healthcare administrators can:
-
-Forecast demand more accurately
-
-Optimize doctor schedules and resource allocation
-
-Minimize patient wait times
-
-Identify high-risk no-show segments for targeted engagement
-
-Support data-driven decisions for operational efficiency and patient satisfaction
+## 🔑 Summary  
+Together, these three dashboards provide a **360° view of hospital performance** — helping stakeholders:  
+- Reduce wasted capacity.  
+- Balance workforce utilization.  
+- Improve patient satisfaction and retention.  
+- Protect and forecast hospital revenue.  
