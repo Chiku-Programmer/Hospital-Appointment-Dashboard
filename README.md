@@ -1,4 +1,4 @@
-# 🏥 Healthcare Appointment Dashboard  
+# 🏥 Hospital Appointment Dashboard  
 
 ## 📝 Problem Statement  
 Hospitals face challenges with **high appointment cancellations, no-shows, and uneven doctor workload**, leading to lost revenue, inefficiency, and poor patient experience.  
